@@ -1,0 +1,6 @@
+{
+  "name": "MAJLISH",
+  "description": "Liquid Glass PAK & Lua toolkit with secure license key verification, SM4/ZUC/ZSTD PAK unpacking, repacking, injection, protection, and Lua 5.3 bytecode tooling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

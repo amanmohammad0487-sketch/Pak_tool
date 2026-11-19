@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MAJLISH</string>
+    <string name="app_tagline">LIQUID PAK &amp; LUA ENGINE</string>
+    <string name="auth_title">License Verification</string>
+    <string name="auth_subtitle">Paste your access key to unlock MAJLISH</string>
+    <string name="auth_key_placeholder">Paste license key…</string>
+    <string name="auth_paste">Paste</string>
+    <string name="auth_verify_cta">Unlock MAJLISH</string>
+    <string name="auth_verifying">Connecting to license server…</string>
+    <string name="auth_granted">Access Granted</string>
+    <string name="auth_denied">Access Denied</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_pak">PAK Lab</string>
+    <string name="nav_lua">Lua Studio</string>
+    <string name="nav_vault">Vault</string>
+    <string name="status_online">SYSTEM ONLINE</string>
+    <string name="status_authenticated">AUTHENTICATED</string>
+    <string name="vip_access">VIP ACCESS</string>
+    <string name="system_status">SYSTEM STATUS</string>
+    <string name="action_import_pak">Import .pak</string>
+    <string name="action_import_files">Import Files</string>
+    <string name="action_export">Export</string>
+    <string name="action_sign_out">Lock &amp; Sign Out</string>
+    <string name="theme_selector_title">Liquid Glass Theme</string>
+    <string name="cd_app_logo">MAJLISH emblem logo</string>
+    <string name="cd_paste_key">Paste license key from clipboard</string>
+    <string name="cd_clear_input">Clear input field</string>
+    <string name="cd_toggle_visibility">Toggle key visibility</string>
+    <string name="cd_sign_out">Lock session and sign out</string>
+    <string name="cd_import_file">Import file from device storage</string>
+    <string name="cd_export_file">Export file to device storage</string>
+    <string name="cd_delete_folder">Delete folder</string>
+    <string name="cd_back">Navigate back</string>
+</resources>
